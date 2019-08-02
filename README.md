@@ -1,4 +1,5 @@
 # CodeBytes
+![Start](https://user-images.githubusercontent.com/51723948/62402425-9f52f980-b57f-11e9-91aa-a3eed01f4daf.jpg)
 ## Project overview
 <br />
 <br />
@@ -21,8 +22,6 @@ A 14-Week Intensive && Immersive FullStack Programming Bootcamp. [More info](htt
 <br /> 
 <br />
 <br />Martim Lima | @[martimdLima](https://github.com/martimdLima)  
-Game Logo:
-![Start](https://user-images.githubusercontent.com/51723948/62402425-9f52f980-b57f-11e9-91aa-a3eed01f4daf.jpg)
 
 Game Intro:
 ![Team 4](https://user-images.githubusercontent.com/51723948/62402456-be518b80-b57f-11e9-9941-78a070e04158.jpg)
