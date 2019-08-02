@@ -10,7 +10,7 @@
 <br /> 
 <br />Run the jar file to play the game.
 <br />
-<br />Project completed with 4 weeks of bootcamp, using [Prompt-View](https://github.com/academia-de-codigo/prompt-view) library, developed by Academia de Código. 
+<br />Project completed with 4 weeks of bootcamp using Simple GFX library. A simple graphics lib developed by Academia de código.
 <br />
 
 ### Academia de Código
