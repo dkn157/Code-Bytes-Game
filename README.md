@@ -9,6 +9,10 @@ Game Intro:
 Game Menu:
 ![Menu](https://user-images.githubusercontent.com/51723948/62402489-e04b0e00-b57f-11e9-8f6c-572b36398259.jpg)
 
+Game Instructions:
+![Instructions](https://user-images.githubusercontent.com/51723948/62402519-083a7180-b580-11e9-90ad-115c5c188622.jpg)
+
+
 
 
 Uses Java and SimpleGraphics lib
