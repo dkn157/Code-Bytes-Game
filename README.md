@@ -1,5 +1,26 @@
 # CodeBytes
+## Project overview
+<br />
+<br />
+<br />
+<br />
+<br /> 
+<br />
+<br /> 
+<br /> 
+<br />Run the jar file to play the game.
+<br />
+<br />Project completed with 4 weeks of bootcamp, using [Prompt-View](https://github.com/academia-de-codigo/prompt-view) library, developed by Academia de Código. 
+<br />
 
+### Academia de Código
+A 14-Week Intensive && Immersive FullStack Programming Bootcamp. [More info](https://www.academiadecodigo.org/)
+
+### Authors
+<br />Diogo Noronha | @[dkn157](https://github.com/dkn157)  
+<br /> 
+<br />
+<br />Martim Lima | @[martimdLima](https://github.com/martimdLima)  
 Game Logo:
 ![Start](https://user-images.githubusercontent.com/51723948/62402425-9f52f980-b57f-11e9-91aa-a3eed01f4daf.jpg)
 
