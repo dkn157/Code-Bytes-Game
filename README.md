@@ -8,7 +8,7 @@
 <br />
 <br /> 
 <br /> 
-<br />Run the jar file to play the game.
+<br />Run the jar file, located in the build folder, to play the game.
 <br />
 <br />Project completed with 4 weeks of bootcamp using Simple GFX library. A simple graphics lib developed by Academia de código.
 <br />
@@ -36,5 +36,4 @@ Game Instructions:
 
 
 
-Uses Java and SimpleGraphics lib
-Jar file located in build folder;
+
