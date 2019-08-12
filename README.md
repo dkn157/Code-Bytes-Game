@@ -1,26 +1,26 @@
 # CodeBytes
-![Start](https://user-images.githubusercontent.com/51723948/62402425-9f52f980-b57f-11e9-91aa-a3eed01f4daf.jpg)
-## Project overview
-<br />
-<br />
-<br />
-<br />
-<br /> 
-<br />
-<br /> 
-<br /> 
-<br />Run the jar file, located in the build folder, to play the game.
-<br />
-<br />Project completed with 4 weeks of bootcamp using Simple GFX library. A simple graphics lib developed by Academia de código.
-<br />
+!A one-week group project developed after classes in our “spare-time” in the first month of <Academia de Código_> Bootcamp.
+
+Our idea was to make a simple game where several items run down the screen and the player has to catch them. Each item had different types of rewards/damage. The game ends when the player has no more lives left. The final score is where you can see how you perform in the game.
+
+The game has an <A/C_>'s theme.
+Usage
+
+Run the Jar file located in the build folder.
+Tech && Meths
+
+Java 8 and SimpleGFx library.
+Features
+
+Catch different logos and deal with their rewards or punishments. Gain lives if you catch the right item. Beware of how many lives you still have. The goal is to have how many points as you can. HAVE FUN!
 
 ### Academia de Código
 A 14-Week Intensive && Immersive FullStack Programming Bootcamp. [More info](https://www.academiadecodigo.org/)
 
 ### Authors
 <br />Diogo Noronha | @[dkn157](https://github.com/dkn157)  
-<br /> 
-<br />
+<br />Pedro Cruz | @[pedrituh9] (https://github.com/pedrituh9)
+<br />Pedro Lima | @[Pmsclima] (https://github.com/Pmsclima)
 <br />Martim Lima | @[martimdLima](https://github.com/martimdLima)  
 
 Game Intro:
