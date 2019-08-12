@@ -1,5 +1,6 @@
 # CodeBytes
-!A one-week group project developed after classes in our “spare-time” in the first month of <Academia de Código_> Bootcamp.
+![Start](https://user-images.githubusercontent.com/51723948/62402425-9f52f980-b57f-11e9-91aa-a3eed01f4daf.jpg)
+A one-week group project developed after classes in our “spare-time” in the first month of <Academia de Código_> Bootcamp.
 
 Our idea was to make a simple game where several items run down the screen and the player has to catch them. Each item had different types of rewards/damage. The game ends when the player has no more lives left. The final score is where you can see how you perform in the game.
 
